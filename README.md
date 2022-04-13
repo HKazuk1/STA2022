@@ -1,2 +1,2 @@
 # STA2022
-ソフトウェア技術応用の練習用リポジトリ
+software technology applycation 2022
