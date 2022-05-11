@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+    <meta charset="UTF-8">
+   <title>数字判定ページ</title>
+</head>
+<body >
+    <form action='/result'>
+        <h1>数字を入力して下さい</h1>
+        <p>{{num}}</p>
+        <input type="text" name="field">
+        <button type="submit" formmethod="GET">偶奇判定</button>
+        <button type="submit" formmethod="POST">素数判定</button>
+    </form>
+</body>
+</html>
